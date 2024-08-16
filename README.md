@@ -29,3 +29,9 @@ git push -u origin main
 ```
 [https://app.quicktype.io/]
 [https://dummyjson.com/docs]
+
+## Packages
+
+1. [http](https://pub.dev/packages/http)
+2. [connectivity_plus](https://pub.dev/packages/connectivity_plus/install)
+3. [intl](https://pub.dev/packages/intl)
