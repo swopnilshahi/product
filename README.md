@@ -27,3 +27,5 @@ git remote add origin https://github.com/swopnilshahi/products.git
 git push -u origin main
 
 ```
+[https://app.quicktype.io/]
+[https://dummyjson.com/docs]
